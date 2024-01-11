@@ -3,7 +3,7 @@ import Link from "next/link";
 const Navbar = () => {
 
     return (
-        <div className="flex items-center justify-between py-10">
+        <div className="max-w-6xl mx-auto flex items-center justify-between py-10">
 
             {/* Navbar Start */}
             <div className="flex gap-10 items-center">
